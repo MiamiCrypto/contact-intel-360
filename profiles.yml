@@ -1,0 +1,9 @@
+- tenant: commodore
+  startUrl: https://commodorebuilders.com/people/
+  seniorSelector: "h3"
+  staffSelector: "h4"
+
+- tenant: gentcs
+  startUrl: https://gentcs.ai/team/
+  seniorSelector: ".team-member h3"
+  staffSelector: ".staff-member h4" 

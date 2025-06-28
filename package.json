@@ -1,0 +1,23 @@
+{
+  "name": "contact-intel-360",
+  "version": "1.0.0",
+  "description": "Contact Intelligence 360 - Client validation and deep contact intelligence app",
+  "main": "src/scrape/index.js",
+  "scripts": {
+    "scrape": "node src/scrape/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "contact",
+    "intelligence",
+    "scraping",
+    "validation"
+  ],
+  "author": "Blue Team",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "js-yaml": "^4.1.0",
+    "playwright": "^1.35.0"
+  }
+} 
